@@ -1,6 +1,6 @@
 #synclient VertTwoFingerScroll=1
 
-#synclient HorizTwoFingerScroll=1
+synclient HorizTwoFingerScroll=1
 
 #synclient VertEdgeScroll=0
 
